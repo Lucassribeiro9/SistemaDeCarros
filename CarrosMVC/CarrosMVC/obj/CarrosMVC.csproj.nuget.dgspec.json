@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMVC\\CarrosMVC.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMVC\\CarrosMVC.csproj": {
+    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMVC\\CarrosMVC.csproj",
-        "projectName": "CarrosMVC",
-        "projectPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMVC\\CarrosMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj",
+        "projectName": "CarrosMvc",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMVC\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,14 +37,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.NETCore": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

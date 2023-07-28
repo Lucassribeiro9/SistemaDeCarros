@@ -1,8 +1,8 @@
-﻿using CarrosMVC.Models;
+﻿using CarrosMvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace CarrosMVC.Controllers
+namespace CarrosMvc.Controllers
 {
     public class HomeController : Controller
     {

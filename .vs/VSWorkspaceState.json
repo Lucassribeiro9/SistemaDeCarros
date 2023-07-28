@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CarrosMVC",
+    "\\CarrosMVC\\CarrosMVC",
+    "\\CarrosMVC\\CarrosMVC\\Models"
   ],
-  "SelectedNode": "\\C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros",
+  "SelectedNode": "\\CarrosMVC\\CarrosMVC\\Models",
   "PreviewInSolutionExplorer": false
 }
