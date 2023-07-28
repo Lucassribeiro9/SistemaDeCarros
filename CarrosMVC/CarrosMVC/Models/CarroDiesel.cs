@@ -1,8 +1,5 @@
-﻿using System;
-
-public class Class1
+﻿public class CarroDiesel : Carro
 {
-	public Class1()
-	{
-	}
+    public double CapacidadeCarga { get; set; }
+    public double VolumeCacamba { get; set; }
 }

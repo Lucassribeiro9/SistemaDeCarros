@@ -1,8 +1,5 @@
-﻿using System;
-
-public class Class1
+﻿public class CarroFlex : Carro
 {
-	public Class1()
-	{
-	}
+    public int NumeroPortas { get; set; }
+    public double Cilindrada { get; set; }
 }
