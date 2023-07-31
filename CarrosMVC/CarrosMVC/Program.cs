@@ -1,7 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<CarroDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("CarroDbContext") ?? throw new InvalidOperationException("Connection string 'CarroDbContext' not found.")));
 
 var app = builder.Build();
 
