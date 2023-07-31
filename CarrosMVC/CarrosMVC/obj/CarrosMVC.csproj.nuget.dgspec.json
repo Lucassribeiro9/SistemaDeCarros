@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMvc\\CarrosMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj": {
+    "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMvc\\CarrosMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMvc\\CarrosMvc.csproj",
         "projectName": "CarrosMvc",
-        "projectPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\CarrosMvc.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMvc\\CarrosMvc.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMvc\\CarrosMvc\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\Udemy\\SistemaDeCarros\\CarrosMVC\\CarrosMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,6 +64,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.9, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.15, )"
             }
           },
           "imports": [
